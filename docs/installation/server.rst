@@ -1,5 +1,2 @@
-.. _installation:
-
-============
-Installation
-============
+Server
+======
