@@ -1,20 +1,20 @@
-.. Passky Password Manager Documentation documentation master file, created by
-   sphinx-quickstart on Tue Oct 25 14:19:51 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. _index:
 
-Welcome to Passky Password Manager Documentation's documentation!
+=================================================================
+Welcome to Passky Password Manager's documentation!
 =================================================================
 
 .. toctree::
+   :hidden:
+   :maxdepth: 1
+
+   about
+
+.. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :caption: Installation:
 
+   installation/server
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Welcome to the Passky documentation. Here you will learn how to install, manage and use the Passky password manager.
