@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Passky Password Manager Documentation'
+project = 'Passky'
 copyright = '2022, Diekos'
 author = 'Diekos'
 

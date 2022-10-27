@@ -7,7 +7,7 @@ The components of Passky
 Passky uses the following components:
 
 1. :doc:`Server<installation/server>`
-2. :doc:`Database<installation/database>`
+2. :doc:`Database<installation/database>` Optional -> Can be automatically installed in a container with docker-compose
 3. :doc:`Website<installation/website>` (Webclient) - Optional
 4. :doc:`Desktop client<installation/desktopclient>`
 5. :doc:`Browser extension<installation/browserextension>` (Available as Chrome and Firefox extensions)
